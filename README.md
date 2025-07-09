@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This site showcases selected projects, dashboards, and research work that highlight my skills in **Data Science**, **Machine Learning**, **Analytics**, and **Software Engineering**.
 
-🔗 View the live website here: [kirti323.github.io](https://kirti323.github.io)
+🔗 View the live website here: [kirti323.github.io](https://kirti323.github.io/Kirti.Github.io/)
 
 ---
 
