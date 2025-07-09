@@ -36,7 +36,7 @@ I’m passionate about solving real-world problems using data and technology.
 
 Feel free to connect with me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kirti-katiyar/)
+- 💼 [LinkedIn](www.linkedin.com/in/katiyarkirti)
 - 📧 Email: kkirtikatiyar@gmail.com
 - 📂 GitHub: [github.com/kirti323](https://github.com/kirti323)
 
